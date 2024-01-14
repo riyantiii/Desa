@@ -233,7 +233,7 @@
 				<div class="col-md-12 heading-section text-center ftco-animate">
 					<span class="subheading">Berita</span>
 					<h2 class="mb-4">Berita Terbaru</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+					<p>Sekilas Berita Tentang Desa Mertapada Wetan</p>
 				</div>
 			</div>
 			<div class="row">
@@ -242,8 +242,8 @@
 						<div class="item">
 							<div class="project">
 								<div class="img">
-									<img src="images/project-1.jpg" class="img-fluid" alt="Colorlib Template">
-									<a href="images/project-1.jpg"
+									<img src="images/02.jpg" class="img-fluid" alt="Colorlib Template">
+									<a href="images/02.jpg"
 										class="icon image-popup d-flex justify-content-center align-items-center">
 										<span class="icon-expand"></span>
 									</a>
@@ -257,8 +257,8 @@
 						<div class="item">
 							<div class="project">
 								<div class="img">
-									<img src="images/project-2.jpg" class="img-fluid" alt="Colorlib Template">
-									<a href="images/project-2.jpg"
+									<img src="images/01.jpg" class="img-fluid" alt="Colorlib Template">
+									<a href="images/01.jpg"
 										class="icon image-popup d-flex justify-content-center align-items-center">
 										<span class="icon-expand"></span>
 									</a>
@@ -272,8 +272,8 @@
 						<div class="item">
 							<div class="project">
 								<div class="img">
-									<img src="images/project-3.jpg" class="img-fluid" alt="Colorlib Template">
-									<a href="images/project-3.jpg"
+									<img src="images/03.jpg" class="img-fluid" alt="Colorlib Template">
+									<a href="images/03.jpg"
 										class="icon image-popup d-flex justify-content-center align-items-center">
 										<span class="icon-expand"></span>
 									</a>
@@ -287,8 +287,8 @@
 						<div class="item">
 							<div class="project">
 								<div class="img">
-									<img src="images/project-4.jpg" class="img-fluid" alt="Colorlib Template">
-									<a href="images/project-4.jpg"
+									<img src="images/04.jpg" class="img-fluid" alt="Colorlib Template">
+									<a href="images/04.jpg"
 										class="icon image-popup d-flex justify-content-center align-items-center">
 										<span class="icon-expand"></span>
 									</a>
@@ -302,8 +302,8 @@
 						<div class="item">
 							<div class="project">
 								<div class="img">
-									<img src="images/project-5.jpg" class="img-fluid" alt="Colorlib Template">
-									<a href="images/project-5.jpg"
+									<img src="images/des.jpg" class="img-fluid" alt="Colorlib Template">
+									<a href="images/des.jpg"
 										class="icon image-popup d-flex justify-content-center align-items-center">
 										<span class="icon-expand"></span>
 									</a>
@@ -317,8 +317,8 @@
 						<div class="item">
 							<div class="project">
 								<div class="img">
-									<img src="images/project-6.jpg" class="img-fluid" alt="Colorlib Template">
-									<a href="images/project-6.jpg"
+									<img src="images/05.jpg" class="img-fluid" alt="Colorlib Template">
+									<a href="images/05.jpg"
 										class="icon image-popup d-flex justify-content-center align-items-center">
 										<span class="icon-expand"></span>
 									</a>
@@ -339,8 +339,8 @@
 		<div class="container-fluid p-0">
 			<div class="row no-gutters justify-content-center pb-5">
 				<div class="col-md-12 heading-section text-center ftco-animate">
-					<span class="subheading">Architect</span>
-					<h2 class="mb-4">Behind those Beautiful Works</h2>
+					<span class="subheading">Data</span>
+					<h2 class="mb-4">Data Lengkap Perangkat Desa</h2>
 					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
 				</div>
 			</div>

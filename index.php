@@ -31,6 +31,7 @@
 
 	<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 		<div class="container">
+	    	<img src="images/crbn.png" alt="Image" height="45" width="45">
 			<a class="navbar-brand" href="index.html"><span>Mertapada Wetan</span></a>
 			<button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse"
 				data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
@@ -43,11 +44,11 @@
 					<li class="nav-item"><a href="#" class="nav-link" data-nav-section="about"><span>Profil</span></a>
 					</li>
 					<li class="nav-item"><a href="#" class="nav-link"
-							data-nav-section="projects"><span>Berita</span></a></li>
+							data-nav-section="projects"><span>Layanan</span></a></li>
 					<li class="nav-item"><a href="#" class="nav-link" data-nav-section="team"><span>Data</span></a></li>
 					<li class="nav-item"><a href="#" class="nav-link"
 							data-nav-section="testimony"><span>Lembaga</span></a></li>
-					<li class="nav-item"><a href="#" class="nav-link" data-nav-section="blog"><span>Layanan</span></a>
+					<li class="nav-item"><a href="#" class="nav-link" data-nav-section="blog"><span>Berita</span></a>
 					</li>
 					<li class="nav-item"><a href="#" class="nav-link" data-nav-section="contact"><span>Kontak</span></a>
 					</li>
@@ -231,9 +232,9 @@
 		<div class="container-fluid px-md-5">
 			<div class="row justify-content-center pb-5">
 				<div class="col-md-12 heading-section text-center ftco-animate">
-					<span class="subheading">Berita</span>
-					<h2 class="mb-4">Berita Terbaru</h2>
-					<p>Sekilas Berita Tentang Desa Mertapada Wetan</p>
+					<span class="subheading">Layananan</span>
+					<h2 class="mb-4">Layanan</h2>
+					<p>Layanan Desa Mertapada Wetan</p>
 				</div>
 			</div>
 			<div class="row">
@@ -612,15 +613,15 @@
 		<div class="container">
 			<div class="row justify-content-center mb-5 pb-5">
 				<div class="col-md-7 heading-section text-center ftco-animate">
-					<span class="subheading">Blog</span>
-					<h2 class="mb-4">Read Our Stories</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+					<span class="subheading">Berita</span>
+					<h2 class="mb-4">Berita Terkini</h2>
+					<p>Sekilas Berita Tentang Desa Mertapada Wetan</p>
 				</div>
 			</div>
 			<div class="row d-flex">
 				<div class="col-md-4 d-flex ftco-animate">
 					<div class="blog-entry justify-content-end">
-						<a href="single.html" class="block-20" style="background-image: url('images/image_1.jpg');">
+						<a href="single.html" class="block-20" style="background-image: url('images/01.jpg');">
 						</a>
 						<div class="text mt-3 float-right d-block">
 							<div class="d-flex align-items-center pt-2 mb-4 topp">
@@ -649,7 +650,7 @@
 				</div>
 				<div class="col-md-4 d-flex ftco-animate">
 					<div class="blog-entry justify-content-end">
-						<a href="single.html" class="block-20" style="background-image: url('images/image_2.jpg');">
+						<a href="single.html" class="block-20" style="background-image: url('images/02.jpg');">
 						</a>
 						<div class="text mt-3 float-right d-block">
 							<div class="d-flex align-items-center pt-2 mb-4 topp">
@@ -678,7 +679,7 @@
 				</div>
 				<div class="col-md-4 d-flex ftco-animate">
 					<div class="blog-entry">
-						<a href="single.html" class="block-20" style="background-image: url('images/image_3.jpg');">
+						<a href="single.html" class="block-20" style="background-image: url('images/03.jpg');">
 						</a>
 						<div class="text mt-3 float-right d-block">
 							<div class="d-flex align-items-center pt-2 mb-4 topp">
@@ -708,7 +709,7 @@
 
 				<div class="col-md-4 d-flex ftco-animate">
 					<div class="blog-entry justify-content-end">
-						<a href="single.html" class="block-20" style="background-image: url('images/image_4.jpg');">
+						<a href="single.html" class="block-20" style="background-image: url('images/04.jpg');">
 						</a>
 						<div class="text mt-3 float-right d-block">
 							<div class="d-flex align-items-center pt-2 mb-4 topp">
@@ -737,7 +738,7 @@
 				</div>
 				<div class="col-md-4 d-flex ftco-animate">
 					<div class="blog-entry justify-content-end">
-						<a href="single.html" class="block-20" style="background-image: url('images/image_5.jpg');">
+						<a href="single.html" class="block-20" style="background-image: url('images/05.jpg');">
 						</a>
 						<div class="text mt-3 float-right d-block">
 							<div class="d-flex align-items-center pt-2 mb-4 topp">
@@ -766,7 +767,7 @@
 				</div>
 				<div class="col-md-4 d-flex ftco-animate">
 					<div class="blog-entry">
-						<a href="single.html" class="block-20" style="background-image: url('images/image_6.jpg');">
+						<a href="single.html" class="block-20" style="background-image: url('images/des.jpg');">
 						</a>
 						<div class="text mt-3 float-right d-block">
 							<div class="d-flex align-items-center pt-2 mb-4 topp">

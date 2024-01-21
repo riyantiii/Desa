@@ -41,7 +41,7 @@
 			<div class="collapse navbar-collapse" id="ftco-nav">
 				<ul class="navbar-nav nav ml-auto">
 					<li class="nav-item"><a href="#" class="nav-link" data-nav-section="home"><span>Beranda</span></a></li>
-					<li class="nav-item"><a href="#" class="nav-link" data-nav-section="about"><span>Profil</span></a>
+					<li class="nav-item"><a href="profil.php" class="nav-link" data-nav-section="profil"><span>Profil</span></a>
 					</li>
 					<li class="nav-item"><a href="#" class="nav-link"
 							data-nav-section="projects"><span>Layanan</span></a></li>
@@ -638,7 +638,7 @@
 							<p>A small river named Duden flows by their place and supplies it with the necessary
 								regelialia.</p>
 							<div class="d-flex align-items-center mt-4 meta">
-								<p class="mb-0"><a href="#" class="btn btn-secondary">Read More <span
+								<p class="mb-0"><a href="#" class="btn btn-secondary">Ketik Pesan <span
 											class="ion-ios-arrow-round-forward"></span></a></p>
 								<p class="ml-auto mb-0">
 									<a href="#" class="mr-2">Admin</a>
@@ -667,7 +667,7 @@
 							<p>A small river named Duden flows by their place and supplies it with the necessary
 								regelialia.</p>
 							<div class="d-flex align-items-center mt-4 meta">
-								<p class="mb-0"><a href="#" class="btn btn-secondary">Read More <span
+								<p class="mb-0"><a href="#" class="btn btn-secondary">Ketik Pesan <span
 											class="ion-ios-arrow-round-forward"></span></a></p>
 								<p class="ml-auto mb-0">
 									<a href="#" class="mr-2">Admin</a>
@@ -696,7 +696,7 @@
 							<p>A small river named Duden flows by their place and supplies it with the necessary
 								regelialia.</p>
 							<div class="d-flex align-items-center mt-4 meta">
-								<p class="mb-0"><a href="#" class="btn btn-secondary">Read More <span
+								<p class="mb-0"><a href="#" class="btn btn-secondary">Ketik Pesan <span
 											class="ion-ios-arrow-round-forward"></span></a></p>
 								<p class="ml-auto mb-0">
 									<a href="#" class="mr-2">Admin</a>
@@ -726,7 +726,7 @@
 							<p>A small river named Duden flows by their place and supplies it with the necessary
 								regelialia.</p>
 							<div class="d-flex align-items-center mt-4 meta">
-								<p class="mb-0"><a href="#" class="btn btn-secondary">Read More <span
+								<p class="mb-0"><a href="#" class="btn btn-secondary">Ketik Pesan <span
 											class="ion-ios-arrow-round-forward"></span></a></p>
 								<p class="ml-auto mb-0">
 									<a href="#" class="mr-2">Admin</a>
@@ -755,7 +755,7 @@
 							<p>A small river named Duden flows by their place and supplies it with the necessary
 								regelialia.</p>
 							<div class="d-flex align-items-center mt-4 meta">
-								<p class="mb-0"><a href="#" class="btn btn-secondary">Read More <span
+								<p class="mb-0"><a href="#" class="btn btn-secondary">Ketik Pesan <span
 											class="ion-ios-arrow-round-forward"></span></a></p>
 								<p class="ml-auto mb-0">
 									<a href="#" class="mr-2">Admin</a>
@@ -784,7 +784,7 @@
 							<p>A small river named Duden flows by their place and supplies it with the necessary
 								regelialia.</p>
 							<div class="d-flex align-items-center mt-4 meta">
-								<p class="mb-0"><a href="#" class="btn btn-secondary">Read More <span
+								<p class="mb-0"><a href="#" class="btn btn-secondary">Ketik Pesan <span
 											class="ion-ios-arrow-round-forward"></span></a></p>
 								<p class="ml-auto mb-0">
 									<a href="#" class="mr-2">Admin</a>
